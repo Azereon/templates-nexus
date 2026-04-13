@@ -1,0 +1,18 @@
+name: templates-nexus
+id: ari:cloud:compass:d4b84600-18fa-41d5-8dde-ad7154fdcf91:component/88049ab3-f6ec-4ab8-87b1-009d0d5136fb/435942d9-f0fd-4c11-8b54-16fc8f86ea7a
+description: Nexus theme
+configVersion: 1
+typeId: UI_ELEMENT
+ownerId: ari:cloud:identity::team/706aa507-4afd-41eb-8d76-d36485fe8efa
+fields:
+  tier: 4
+links:
+  - name: null
+    type: REPOSITORY
+    url: https://github.com/Azereon/templates-nexus
+relationships:
+  DEPENDS_ON: []
+labels:
+  - language:javascript
+  - source:github
+customFields: null
